@@ -18,11 +18,11 @@ RegTech leverages Artificial Intelligence to:
 - Generate compliance reports in real time
 
 Core Features
-✅ Automated regulation monitoring  
-✅ Legal risk assessment engine  
-✅ Compliance checklist generator  
-✅ AI-based alert system  
-✅ Audit and documentation support  
+Automated regulation monitoring  
+Legal risk assessment engine  
+Compliance checklist generator  
+AI-based alert system  
+Audit and documentation support  
 
 Tech Stack
 - **Frontend:** HTML / CSS / JavaScript  
